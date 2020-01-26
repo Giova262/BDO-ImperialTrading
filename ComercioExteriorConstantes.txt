@@ -119,6 +119,13 @@ REGION MEDIAH :
 		Cerveza leight
 		Paja de platio de trigo en el norte
 
+	5: 	Accesorio tradicional de bashim
+		Vestido de noble del oeste
+		Bulto de ramas de sauco negro
+		Muñeca maldita
+		Carne ahumada de cabra
+		Armadura de hierro de cadry
+
 REGION VALENCIA :
 
 	1 :	Reactivo Rojo
