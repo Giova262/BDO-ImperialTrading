@@ -32,6 +32,14 @@ REGION BALENOS :
 		Planta de cornus seca
 		Estatua ancestral enmohecida
 
+	5:	Incienso de teviral
+		Retrato del emperador
+		Antiguedad del barrio bajo de calpheon
+		Suministro de primeros auxilios del barrio bajo de calpheon	
+		Bulto de hierba medicinal contaminada
+		Veneno de trol
+		
+
 
 
 REGION SERENDIA :
@@ -56,6 +64,13 @@ REGION SERENDIA :
 		Paisaje musica del cielo
 		Ocarnia music del cielo
 		Tetera cabeza del dragon
+
+	4:	Carne de pollo ahumado de velia
+		Vino de velia
+		Reactivo azul de alquimista
+		Tablon de velia
+		Globo de papel sutil *
+		Ginseng silvestre mil años *
 
 
 REGION CALPHEON :
@@ -234,4 +249,11 @@ REGION DE DRIEGHAN :
 		Cepillo de melena
 		Trofeo de carrera de caballo
 		Piel de piedra de rino
+
+	4:	Flauta de cuerno de behr
+		Paloma domada
+		Salchicha de berh
+		Tela de pield e berh
+		Pez encurrido de raiz de hada
+		Punta de flecha triple
 		
