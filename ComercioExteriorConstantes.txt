@@ -1,0 +1,142 @@
+
+
+REGION BALENOS :
+
+	1 :	Hilo de tela de araña
+		Carne de res ahumada de kusha
+		Anestisico de araña
+		Cobija caliente
+		Tazon de Ratt*
+		Insensario de oro puro*
+
+	2: 	Suministro de medicinas de mediah
+		Espada curvada del soldado derrotado de mediah
+		Orbe de cristal de horoscopo
+		Cultura del este
+		Escultura en mal estado
+		Pedazo de cuarzo de la mina de hierro abandonada
+
+
+REGION SERENDIA :
+
+	1 :	Chandelier de stimi
+		Tela de Aurobyl
+		Set de Transporte de pallet
+		Paquete de barbacoa de puerco
+		Molde de cañon
+		Lingote de acero de taller de calpheon
+
+
+REGION CALPHEON :
+
+	1 : 	Libro de farmacologia de weenie  looney
+		Gota del bosque de ramas blancas			
+		Manaltial de flondor
+		Sylviarona
+		Almeja de jade de flondor
+		Planta acuatica de cristal de flondor
+
+	2 : 	Alfonbra decorativo de yak
+		Rehilete detuya oriental
+		Decoracion de bandera de sherekhan
+		Decoracion de diente de khalk con joyas
+		Brocheta de borrego bien cocido
+		Medicina para el mal de altura
+
+	3 :	Ladrilo de lodo de glish
+		Rama de roble magico
+		Aceite para piel fogan
+		Pata trasera seca de fogan
+		Barro seco de freharau
+		Pocion de freharau
+
+
+REGION MEDIAH :
+
+	1 : 	Reactivo rojo de alquimista
+		Vidrio cristal de velia
+		Opalo negro de velia
+		Pelaje de zorro
+		Caja de bala de plomo de tranan
+		La aventura extraña de bartali
+
+	2 :	Set de liston de señora pilaf
+		Estatua del dragon de oyun
+		Kit de primeros auxilios de heidel
+		Mineral de hierro de pureza alta
+		Sable oriental *
+		Jarron de porcelana haso *
+
+REGION VALENCIA :
+
+	1 :	Reactivo Rojo
+		Cañon de Mano Portatil
+		Bulto de Marfil
+		Papalote Rojo*
+		Seda de Haso*
+		Libro de texto del forajido
+
+	2 : 	Coral del color del mar
+		Esponja natural
+		Lubina de mar seco
+		Olla de sal de Iliya
+		Estatua de pez de la suerte
+		Coral de Iliya
+
+	3 : 	Set de pintural naturales
+		Piel de basilisco seco
+		Sello de marfil
+		Fruta de anis estrellado
+		Mazo
+		Abrigo de pelo de camello
+
+REGION MARGORIA :
+
+	1 : 	Piel de Mantarraya de Randis 
+		Bulto de Rosas Azules
+		Gran Berilio
+		Hoja de Hierba Seca
+		Huevo de Gaviota
+		Vino de Genciana
+
+	2 : 	Perla de Pilava
+		Cangrejo real intacto
+		Pedazi de opalo
+		Bulto de flores escama de fuego
+		Coleccion de cuentos sobre el niño del bosque de palmeras
+		Pintura del paisaje del desierto
+
+
+REGION DE KAMASILVIA :
+
+	1 : 	Mora silvestre foretta agridulce
+		Mora silvestre foretta dulce
+		Hierva luz del atardecer que nace del atardecer
+		Hierba crin seco humedo
+		Herramienta de manteniento de cabana
+		Jugo colorido de moras silvestres
+
+	2: 	Corteza del arbol de acero
+		Herramienta de carpinteria de trent
+		Estatua del espiritu de la tierra
+		Madera especial de trent
+		Camuflaje del bosque
+		Accesorio de ambar
+
+
+REGION DE DRIEGHAN :
+
+	1 :	Olla de medicinas del hogar
+		Pocion de amor n 6
+		Queso de montaña de olvia
+		Set de medicinas de emergencias
+		Gorra tradicional de shais
+		Mermelada de uva de olvia
+
+	2 : 	Piedra magica de valtarra
+		Rama de arbol griz
+		Biografia del gran adiestrador
+		Codigo ancestral de kamasilvia
+		Arco largo acher
+		Uniforme militar de lemoria
+		
