@@ -109,6 +109,13 @@ REGION CALPHEON :
 		Elixir super natural
 		Pocion de curacion
 		Talisman de kirus
+	
+	5:	Mineral al rojo de diablillo
+		Fragmento del totem de diblillo
+		Semilla del espiritu del arbol
+		Excremento de ogro
+		Condimento oriental
+		Piedra de tinta de dragon dorado
 
 
 REGION MEDIAH :
@@ -238,6 +245,13 @@ REGION DE KAMASILVIA :
 		Incienso de tuya oriental
 		Resguardo protector de sherekhan
 		Trampa para marmotas
+
+	4:	Bulto de libros viejos
+		Bulto de pergaminos de calidad
+		Analgesico de valquiria
+		Semilla de hongo de oberen
+		Huevo de pajaro cucu asado
+		Fideos de elote de bain
 
 
 REGION DE DRIEGHAN :
