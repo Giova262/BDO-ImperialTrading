@@ -164,7 +164,7 @@ REGION VALENCIA :
 		Estatua de pez de la suerte
 		Coral de Iliya
 
-	3 : 	Set de pintural naturales
+	3 : 	Set de pinturas naturales
 		Piel de basilisco seco
 		Sello de marfil
 		Fruta de anis estrellado
@@ -209,6 +209,12 @@ REGION MARGORIA :
 		Sal de mar gruesa
 		Caja de concha
 
+	5:	Arpon de epheria
+		Piel de pescado plateado
+		Collar de perla
+		Bomba flotante de epheria
+		Aceite de pescado de epheria
+		Salchicha de pescado
 
 REGION DE KAMASILVIA :
 
