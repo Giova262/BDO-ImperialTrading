@@ -72,6 +72,13 @@ REGION SERENDIA :
 		Globo de papel sutil *
 		Ginseng silvestre mil años *
 
+	5:	Esculrura de pantera negra
+		Mercurio negro siniestro
+		Mineral negro siniestro
+		Uniforme de mineros
+		Amuleto de prevencion de petrificacion
+		Te de jengibre de keplan
+
 
 REGION CALPHEON :
 
