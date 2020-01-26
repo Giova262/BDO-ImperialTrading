@@ -18,6 +18,14 @@ REGION BALENOS :
 		Escultura en mal estado
 		Pedazo de cuarzo de la mina de hierro abandonada
 
+	3 : 	Manual de artes marciales
+		Bulto de herramientas nuevas del enano
+		Vino porodonio de 275 años
+		Zapatos de piel de lebyos
+		Papalote de deseo
+		Vestido de coctel de heidel
+
+
 
 REGION SERENDIA :
 
@@ -34,6 +42,13 @@ REGION SERENDIA :
 		Caja de primeros auxilios del hogar
 		Tela de seda azul
 		Escudo ovalo de barbaro
+	
+	3 : 	Gorro tradicional de dreaghan.
+		Set de caballo colorido
+		Canasta especial de aro
+		Paisaje musica del cielo
+		Ocarnia music del cielo
+		Tetera cabeza del dragon
 
 
 REGION CALPHEON :
@@ -83,6 +98,13 @@ REGION MEDIAH :
 		Sable oriental *
 		Jarron de porcelana haso *
 
+	3 :	Guia para talar de dorman
+		Caja de aserin
+		Mostrador de calidad de calpheon
+		Guia para talar de karl verdun	
+		Caja de segueta filosa
+		Tocador de serendia
+
 REGION VALENCIA :
 
 	1 :	Reactivo Rojo
@@ -128,6 +150,13 @@ REGION MARGORIA :
 		Semilla de hongo trufa
 		Bultro de azafran
 		Saco de arena fina
+
+	4 : 	Reactivo misterioso
+		Bulto de hierbas luz del atardecer de duch
+		Caviar
+		Ambar gris
+		Sal de mar gruesa
+		Caja de concha
 
 
 REGION DE KAMASILVIA :
