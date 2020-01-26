@@ -178,7 +178,7 @@ REGION VALENCIA :
 		Mazo
 		Abrigo de pelo de camello
 
-	4:	Vinoculares de rakshan
+	4:	Binoculares de rakshan
 		Caja de joyas sorpresa de shakuta
 		Rifle decorado con joyas
 		Elixir de la inmortalidad
