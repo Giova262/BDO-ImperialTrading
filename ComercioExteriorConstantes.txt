@@ -25,6 +25,13 @@ REGION BALENOS :
 		Papalote de deseo
 		Vestido de coctel de heidel
 
+	4 : 	Unguento de valentine
+		Buque de vapor de caphras
+		Vela aromatica de florin
+		Set de vestimenta de hada
+		Planta de cornus seca
+		Estatua ancestral enmohecida
+
 
 
 REGION SERENDIA :
@@ -105,6 +112,13 @@ REGION MEDIAH :
 		Caja de segueta filosa
 		Tocador de serendia
 
+	4 : 	Almuerzo del trabajador
+		Ramos de tulipanes fresco
+		Mochila de piel de bufalo
+		Pomada cura todo
+		Cerveza leight
+		Paja de platio de trigo en el norte
+
 REGION VALENCIA :
 
 	1 :	Reactivo Rojo
@@ -127,6 +141,14 @@ REGION VALENCIA :
 		Fruta de anis estrellado
 		Mazo
 		Abrigo de pelo de camello
+
+	4:	Vinoculares de rakshan
+		Caja de joyas sorpresa de shakuta
+		Rifle decorado con joyas
+		Elixir de la inmortalidad
+		Escudo de fuego gigante
+		Pedazo de rutilo
+
 
 REGION MARGORIA :
 
