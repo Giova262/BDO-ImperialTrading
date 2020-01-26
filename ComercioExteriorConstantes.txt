@@ -72,7 +72,7 @@ REGION SERENDIA :
 		Globo de papel sutil *
 		Ginseng silvestre mil años *
 
-	5:	Esculrura de pantera negra
+	5:	Escultura de pantera negra
 		Mercurio negro siniestro
 		Mineral negro siniestro
 		Uniforme de mineros
@@ -252,6 +252,13 @@ REGION DE KAMASILVIA :
 		Semilla de hongo de oberen
 		Huevo de pajaro cucu asado
 		Fideos de elote de bain
+
+	5:	Tacticas de ranger fundamentos
+		Manual de ranger fundamentos
+		Herramientas de curacion emergencias
+		Ornamento delicado
+		Patituras musicales atanis
+		Fragmento de piedra de espiritu maligno
 
 
 REGION DE DRIEGHAN :
