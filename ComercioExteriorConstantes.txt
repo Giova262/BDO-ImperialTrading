@@ -1,4 +1,6 @@
 
+Tiempo de viaje Margoria - Altinova : 30 min
+
 
 REGION BALENOS :
 
@@ -26,6 +28,13 @@ REGION SERENDIA :
 		Molde de cañon
 		Lingote de acero de taller de calpheon
 
+	2 : 	Red Nouveranto
+		Daga decorada con joyas
+		Sandwich de mariam
+		Caja de primeros auxilios del hogar
+		Tela de seda azul
+		Escudo ovalo de barbaro
+
 
 REGION CALPHEON :
 
@@ -49,6 +58,13 @@ REGION CALPHEON :
 		Pata trasera seca de fogan
 		Barro seco de freharau
 		Pocion de freharau
+
+	4 :	Canela en polvo de kasula
+		Jarron con espiritu negro
+		Retrato con alma
+		Elixir super natural
+		Pocion de curacion
+		Talisman de kirus
 
 
 REGION MEDIAH :
@@ -106,6 +122,13 @@ REGION MARGORIA :
 		Coleccion de cuentos sobre el niño del bosque de palmeras
 		Pintura del paisaje del desierto
 
+	3 :	Cartera de piel de pez globo
+		Ostra de louruve
+		Caparazon de cangrejo naranja
+		Semilla de hongo trufa
+		Bultro de azafran
+		Saco de arena fina
+
 
 REGION DE KAMASILVIA :
 
@@ -123,6 +146,13 @@ REGION DE KAMASILVIA :
 		Camuflaje del bosque
 		Accesorio de ambar
 
+	3 : 	Senbei tradicional de drieghan
+		Crema de elote especial de maopan
+		Suplemento de vegetales de calidad
+		Incienso de tuya oriental
+		Resguardo protector de sherekhan
+		Trampa para marmotas
+
 
 REGION DE DRIEGHAN :
 
@@ -139,4 +169,11 @@ REGION DE DRIEGHAN :
 		Codigo ancestral de kamasilvia
 		Arco largo acher
 		Uniforme militar de lemoria
+
+	3 :	Almidon de papa del rancho de shuri
+		Pantalon de telaraña
+		Pan de ajo de la colina de cola de piedra
+		Cepillo de melena
+		Trofeo de carrera de caballo
+		Piel de piedra de rino
 		
