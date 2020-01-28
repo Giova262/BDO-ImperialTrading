@@ -100,7 +100,7 @@ while True:
 b = a.loc[ a[  canales[ int(pos2) -1]  ] == int(codProd)]
     
 print('\n\nLista de Los channels con ese producto en esa region y ese periodo: \n')
-print(b[['Channel','Hora',canales[ int(pos2) -1]]])
+print(b[['Channel','Hora','Fecha',canales[ int(pos2) -1]]])
 
 
 # In[11]:
