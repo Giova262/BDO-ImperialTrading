@@ -19,7 +19,7 @@ import category_encoders as ce
 # Carga de datos.
 train =  pd.read_csv('./ComercioExteriorSetDeDatos.csv', encoding='latin-1',dtype={
              "Channel":'category'
-            ,"Día":'category'
+            ,"Dia":'category'
             ,"Hora":str 
             ,"Periodo del Dia": 'category'
             })
@@ -106,7 +106,7 @@ features6 = [ 'Hora',
 
 #One hot encoding
 one_hot_enc = ce.OneHotEncoder()
-one_hot_encoded = one_hot_enc.fit_transform(a[['Día','Periodo del Dia']])
+one_hot_encoded = one_hot_enc.fit_transform(a[['Dia','Periodo del Dia']])
 a= a.join(one_hot_encoded.add_suffix("_oh"))
 
 
@@ -141,7 +141,8 @@ canales = [   'Balenos',
 
 
 #Separo el set 
-X = a[ [ 'Hora', canales[ int(pos) -1] ] ]
+X = a[ [ 'Hora', canales[ int(pos) -1] , 'Dia_1_oh', 'Dia_2_oh', 'Dia_3_oh', 'Dia_4_oh', 'Dia_5_oh',
+       'Dia_6_oh', 'Dia_7_oh' ] ]
 y = a['Channel']
 
 # No separo el set para luego ver el resultado por aun tengo muy pocos datos
@@ -153,7 +154,7 @@ y = a['Channel']
 
 #Modelo
 clf = RandomForestClassifier( random_state=0,bootstrap =False,min_samples_leaf=2 ,n_jobs=-1,
-                             max_depth = 100,max_features =2,min_samples_split = 2 ,
+                             max_depth = 100,max_features =9,min_samples_split = 2 ,
                              n_estimators = 200 )
 #Entrenamiento
 model = clf.fit(X, y)
@@ -163,11 +164,27 @@ model = clf.fit(X, y)
 
 
 #Prediccion
-hora = input("Escribe la hora \n")
-codigoProd = input("Escribe el codigo del producto \n")
+hora = input("Hora? sin minutos ni segundos \n")
+codigoProd = input("ID producto? \n")
+diaDeLaSemana = input("1-Lunes 2-Martes 3-Miercoles 4-Jueves 5-Viernes 6-Sabado 7-Domingo\n \n")
+
 
 print('El canal donde se podria encontrar el producto ' + codigoProd + ' de la region de '+ canales[int(pos) -1] +' es :')
-print(clf.predict([[ hora,codigoProd]]))
+
+if(int(diaDeLaSemana)==1):
+    print(clf.predict([[ hora,codigoProd,1,0,0,0,0,0,0]]))
+if(int(diaDeLaSemana)==2):
+    print(clf.predict([[ hora,codigoProd,0,1,0,0,0,0,0]]))
+if(int(diaDeLaSemana)==3):
+    print(clf.predict([[ hora,codigoProd,0,0,1,0,0,0,0]]))
+if(int(diaDeLaSemana)==4):
+    print(clf.predict([[ hora,codigoProd,0,0,0,1,0,0,0]]))
+if(int(diaDeLaSemana)==5):
+    print(clf.predict([[ hora,codigoProd,0,0,0,0,1,0,0]]))
+if(int(diaDeLaSemana)==6):
+    print(clf.predict([[ hora,codigoProd,0,0,0,0,0,1,0]]))
+if(int(diaDeLaSemana)==7):
+    print(clf.predict([[ hora,codigoProd,0,0,0,0,0,0,1]]))
 
 
 # In[ ]:
